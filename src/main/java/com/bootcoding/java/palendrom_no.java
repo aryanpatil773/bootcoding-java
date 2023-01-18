@@ -23,7 +23,7 @@ public class palendrom_no {
 }
 //methods
 //array
-//        string
+//string
 //oops class and object
 //inheritance
 //encapsulation

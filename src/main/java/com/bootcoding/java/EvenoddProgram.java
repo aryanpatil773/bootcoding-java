@@ -8,7 +8,7 @@ public class EvenoddProgram {
   System.out.println("Enter no.");
   int n = sc.nextInt();
   int a=10;
-  n=a+2+ ++a;
+ // n=a+2+ ++a;
   if (n % 2 == 0) {
    //>,<,!=
    //n%2==0
